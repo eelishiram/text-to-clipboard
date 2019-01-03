@@ -1,4 +1,4 @@
 declare module "text-to-clipboard" {
-    export function copyCB(): void;
+    export function copyCB(text: string): void;
   }
   
