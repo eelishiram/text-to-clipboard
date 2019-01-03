@@ -1,6 +1,6 @@
 {
   "name": "text-to-clipboard",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Copy text to clipboard",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "keywords": [
     "copy"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eelishiram/text-to-clipboard.git"
+  },
   "author": "AlishiramAlakparov",
   "license": "ISC"
 }
