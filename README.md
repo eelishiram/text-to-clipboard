@@ -5,11 +5,11 @@ Copy text to clipboard
 
 1. ### Use latest version
 
-`npm install copy-to-clipboard@latest`
+`npm install text-to-clipboard@latest`
   
 2. ### Use spesific version
 
-`npm install copy-to-clipboard@1.0.0`
+`npm install text-to-clipboard@1.0.0`
 
 
 ---
